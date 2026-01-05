@@ -2,7 +2,7 @@
 
 **Your AI-Powered Career Coach & Interview Simulator**
 
-Hiredly AI is a comprehensive career preparation platform designed to help job seekers stand out. It leverages advanced AI to optimize resumes, identify skill gaps, provide learning resources, and simulate realistic technical interviews with an interactive AI Voice Agent.
+Hiredly AI is an intelligent career preparation platform built to help job seekers stand out in a competitive market. It leverages advanced AI to analyze and optimize resumes, identify skill gaps, recommend personalized learning resources, and conduct realistic technical interview simulations through an interactive AI voice agent.
 
 ## 🚀 Key Features
 
